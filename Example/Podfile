@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BLPod062020_Example' do
+  pod 'BLPod062020', :path => '../'
+
+  target 'BLPod062020_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
