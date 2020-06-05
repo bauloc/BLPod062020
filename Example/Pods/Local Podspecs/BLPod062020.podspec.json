@@ -1,8 +1,8 @@
 {
   "name": "BLPod062020",
   "version": "0.1.0",
-  "summary": "A short description of BLPod062020.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "BLPod062020.",
+  "description": "A short description of BLPod062020.",
   "homepage": "https://github.com/bauloc/BLPod062020",
   "license": {
     "type": "MIT",
@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "BLPod062020/Classes/**/*"
+  "source_files": "BLPod062020/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
 }

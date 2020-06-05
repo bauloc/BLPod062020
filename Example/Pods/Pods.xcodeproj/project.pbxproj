@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		34DA46C5B04C2DD4F8FEF839CDAE8E69 /* BLPod062020-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EC539F66CD8DE8A90D77131CB7BF9E9 /* BLPod062020-dummy.m */; };
+		0ACE036E7360D4967DD96B298E4DB283 /* BLPod062020-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 729485524FFB342946B318C4294C4AD1 /* BLPod062020-dummy.m */; };
 		4F99A05B4AD83B5755F029CCA00DAF59 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		6F6E5F471EDAD808E9E993594E9BB827 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		81B22BA402AA96DA4A85E7E7DC180782 /* BLPod062020-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B36E8A3A993DF510C00997F4290835B5 /* BLPod062020-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		96D1A35FC8B198069EBB4DEE6F056481 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6616A9677ABCF821635370EFB4260E /* ReplaceMe.swift */; };
-		AD84F12621ACB6F34C85E06377E435A8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		71D2C45A51D12BE72FC1177D5036FCC8 /* LeftImageTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFBFA6331B32C8AA2BC4306CE692A1D /* LeftImageTextField.swift */; };
+		79B56CB4A3F21BB8C87F343BF78AEDAE /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 451163E7B0C3D7BE0739ABC737057378 /* ReplaceMe.swift */; };
+		C7A09C2A8D0CA61E8F4D1B547D355B16 /* BLPod062020-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A5B51BFAE4F414694F82167F27D1BC7 /* BLPod062020-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D3B039158830CB4DE8E503385F38A751 /* Pods-BLPod062020_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 13995A8DF0758AC9969922F238C38AFB /* Pods-BLPod062020_Tests-dummy.m */; };
+		D634F13BF8DDBA3FF1D55FAEA9B29B87 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		DB85EF48C3F104C104AE396F534CEB72 /* Pods-BLPod062020_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E6B2C653104607FDE07B3164BDDF25F /* Pods-BLPod062020_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DF780ACB43C07F08DF02A7040FC81DF2 /* Pods-BLPod062020_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7696F730DC8722E6436E11BE554FDF64 /* Pods-BLPod062020_Example-dummy.m */; };
 		E96C210FDC389A82AD25BD574701D9C0 /* Pods-BLPod062020_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B846D6CB5B89DE9000945EF2D0114629 /* Pods-BLPod062020_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -37,39 +38,40 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		063A538A3A327D809806044F6807FF01 /* BLPod062020.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BLPod062020.modulemap; sourceTree = "<group>"; };
+		0EEA7336D3BBD67C8B01184B4CDAA8D8 /* BLPod062020.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BLPod062020.debug.xcconfig; sourceTree = "<group>"; };
 		13995A8DF0758AC9969922F238C38AFB /* Pods-BLPod062020_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BLPod062020_Tests-dummy.m"; sourceTree = "<group>"; };
-		15292F7BA949C4F28530393D40EC04BD /* BLPod062020-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BLPod062020-prefix.pch"; sourceTree = "<group>"; };
 		18E980C24A8E32D2A21A209C37167679 /* Pods_BLPod062020_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BLPod062020_Example.framework; path = "Pods-BLPod062020_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E8E8752769BB5775D5180AAEB57F65C /* Pods-BLPod062020_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BLPod062020_Tests-Info.plist"; sourceTree = "<group>"; };
+		1FFB739CB91DE9B98BF4CC214C55D267 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		2CD94DEFBD05362F660A07E91CCE24C6 /* Pods-BLPod062020_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BLPod062020_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		2EC539F66CD8DE8A90D77131CB7BF9E9 /* BLPod062020-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BLPod062020-dummy.m"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3B5D238A8F1D47145E58A70B2EECBD25 /* Pods-BLPod062020_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BLPod062020_Example-frameworks.sh"; sourceTree = "<group>"; };
-		3D6616A9677ABCF821635370EFB4260E /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = BLPod062020/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		3E6B2C653104607FDE07B3164BDDF25F /* Pods-BLPod062020_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BLPod062020_Example-umbrella.h"; sourceTree = "<group>"; };
+		451163E7B0C3D7BE0739ABC737057378 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = BLPod062020/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		4EA70495E4E1C354FA333C8ECA093E05 /* Pods-BLPod062020_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BLPod062020_Tests.modulemap"; sourceTree = "<group>"; };
+		517A831448FE88D286CFC4DC85E140DB /* BLPod062020.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BLPod062020.release.xcconfig; sourceTree = "<group>"; };
 		55B32BC6E55F3019F9FB6F5ED3FBADCF /* Pods-BLPod062020_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BLPod062020_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		588DECBE533F555FD9BD30F848ED9D5E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		5BB4D36F0F28A5A0971AA3C7CC9513B2 /* Pods-BLPod062020_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BLPod062020_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6075DB9B64E389428B2351A1350C7B43 /* Pods-BLPod062020_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BLPod062020_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6812CB36771350FC5B7BE6D6F640322A /* Pods-BLPod062020_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BLPod062020_Example.modulemap"; sourceTree = "<group>"; };
 		7080F8BD3D1954E6C25DD6E1044FDB03 /* Pods-BLPod062020_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BLPod062020_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		729485524FFB342946B318C4294C4AD1 /* BLPod062020-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BLPod062020-dummy.m"; sourceTree = "<group>"; };
 		7696F730DC8722E6436E11BE554FDF64 /* Pods-BLPod062020_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BLPod062020_Example-dummy.m"; sourceTree = "<group>"; };
-		81C74613C7BB1469E94DC118B38346E4 /* BLPod062020.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BLPod062020.release.xcconfig; sourceTree = "<group>"; };
+		7A5B51BFAE4F414694F82167F27D1BC7 /* BLPod062020-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BLPod062020-umbrella.h"; sourceTree = "<group>"; };
+		7DB4FA9B8E8A137B762984C948CF3700 /* BLPod062020.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = BLPod062020.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7E72C9382B210F37C06C0C5CC6A1EE57 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		9C85C610C86189FEF6BEAAC1AB3C2797 /* BLPod062020.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BLPod062020.modulemap; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A83A224D6C7C014AFA70473272853584 /* BLPod062020.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = BLPod062020.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		B36E8A3A993DF510C00997F4290835B5 /* BLPod062020-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BLPod062020-umbrella.h"; sourceTree = "<group>"; };
 		B846D6CB5B89DE9000945EF2D0114629 /* Pods-BLPod062020_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BLPod062020_Tests-umbrella.h"; sourceTree = "<group>"; };
+		BEFBFA6331B32C8AA2BC4306CE692A1D /* LeftImageTextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LeftImageTextField.swift; path = BLPod062020/Classes/LeftImageTextField.swift; sourceTree = "<group>"; };
 		C00297B5E40B046FE79E46ECDC75938A /* Pods_BLPod062020_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BLPod062020_Tests.framework; path = "Pods-BLPod062020_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C202DF0ADAD12F601E9B86FD82FEBBAB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		C2BDCED9C94215B2596EE3A3D064FC43 /* Pods-BLPod062020_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BLPod062020_Example-Info.plist"; sourceTree = "<group>"; };
+		C8ED5E1CAA8864DD6930199F4C7A69C7 /* BLPod062020-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BLPod062020-prefix.pch"; sourceTree = "<group>"; };
 		D833A81E0E1771EFBCFD13C2FC61BE42 /* Pods-BLPod062020_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BLPod062020_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		DCBC4F08F3EC9854199FADA8341CDC54 /* BLPod062020-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "BLPod062020-Info.plist"; sourceTree = "<group>"; };
 		E9DFB04778A31209D51751674EA5637C /* Pods-BLPod062020_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BLPod062020_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		EE2D094A43703604414AC790E9DD7AA9 /* Pods-BLPod062020_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BLPod062020_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		EF4385E470CDAE46AA48591D01C2FC15 /* BLPod062020.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BLPod062020.framework; path = BLPod062020.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F3CD407B8785B1B27B284D4FD3210F61 /* BLPod062020.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BLPod062020.debug.xcconfig; sourceTree = "<group>"; };
+		FC6127E3DCF3D4607B01698A97B4E729 /* BLPod062020-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "BLPod062020-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,11 +83,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7C28CA4856125E8FC31AFB825D38F02F /* Frameworks */ = {
+		8DA1ACAEE68AE4EDAD91169968F80298 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD84F12621ACB6F34C85E06377E435A8 /* Foundation.framework in Frameworks */,
+				D634F13BF8DDBA3FF1D55FAEA9B29B87 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -110,27 +112,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		13F5BB905EDB287A654119C12434587A /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				A83A224D6C7C014AFA70473272853584 /* BLPod062020.podspec */,
-				588DECBE533F555FD9BD30F848ED9D5E /* LICENSE */,
-				C202DF0ADAD12F601E9B86FD82FEBBAB /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		1D2FD5FB331B0C71F64E1E21051CFC49 /* BLPod062020 */ = {
-			isa = PBXGroup;
-			children = (
-				3D6616A9677ABCF821635370EFB4260E /* ReplaceMe.swift */,
-				13F5BB905EDB287A654119C12434587A /* Pod */,
-				9DA62EE5F5A71E5C22B609663AAA711E /* Support Files */,
-			);
-			name = BLPod062020;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		75E9FEC9F40217073F401BE0FA63F362 /* Pods-BLPod062020_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -145,6 +126,18 @@
 			);
 			name = "Pods-BLPod062020_Tests";
 			path = "Target Support Files/Pods-BLPod062020_Tests";
+			sourceTree = "<group>";
+		};
+		76792B6EB120E041B9DB0A96E670FB82 /* BLPod062020 */ = {
+			isa = PBXGroup;
+			children = (
+				BEFBFA6331B32C8AA2BC4306CE692A1D /* LeftImageTextField.swift */,
+				451163E7B0C3D7BE0739ABC737057378 /* ReplaceMe.swift */,
+				F5D65A69E4698BBA4FD794CEB2E8CF8A /* Pod */,
+				A9B6270BAF0A5177627A0F4889F2B040 /* Support Files */,
+			);
+			name = BLPod062020;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		7CCB2919C894D0969E8ACE64EC54A896 /* Targets Support Files */ = {
@@ -173,27 +166,19 @@
 			path = "Target Support Files/Pods-BLPod062020_Example";
 			sourceTree = "<group>";
 		};
-		9DA62EE5F5A71E5C22B609663AAA711E /* Support Files */ = {
+		A9B6270BAF0A5177627A0F4889F2B040 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				063A538A3A327D809806044F6807FF01 /* BLPod062020.modulemap */,
-				2EC539F66CD8DE8A90D77131CB7BF9E9 /* BLPod062020-dummy.m */,
-				DCBC4F08F3EC9854199FADA8341CDC54 /* BLPod062020-Info.plist */,
-				15292F7BA949C4F28530393D40EC04BD /* BLPod062020-prefix.pch */,
-				B36E8A3A993DF510C00997F4290835B5 /* BLPod062020-umbrella.h */,
-				F3CD407B8785B1B27B284D4FD3210F61 /* BLPod062020.debug.xcconfig */,
-				81C74613C7BB1469E94DC118B38346E4 /* BLPod062020.release.xcconfig */,
+				9C85C610C86189FEF6BEAAC1AB3C2797 /* BLPod062020.modulemap */,
+				729485524FFB342946B318C4294C4AD1 /* BLPod062020-dummy.m */,
+				FC6127E3DCF3D4607B01698A97B4E729 /* BLPod062020-Info.plist */,
+				C8ED5E1CAA8864DD6930199F4C7A69C7 /* BLPod062020-prefix.pch */,
+				7A5B51BFAE4F414694F82167F27D1BC7 /* BLPod062020-umbrella.h */,
+				0EEA7336D3BBD67C8B01184B4CDAA8D8 /* BLPod062020.debug.xcconfig */,
+				517A831448FE88D286CFC4DC85E140DB /* BLPod062020.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/BLPod062020";
-			sourceTree = "<group>";
-		};
-		A3E2923E85C3408AADFD28844E857DE6 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				1D2FD5FB331B0C71F64E1E21051CFC49 /* BLPod062020 */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -208,7 +193,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				A3E2923E85C3408AADFD28844E857DE6 /* Development Pods */,
+				E0B13EFF5A77D45D0DB9A3373FCDFC7C /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				0EB82666762FFF26F646192FAC0BEB96 /* Products */,
 				7CCB2919C894D0969E8ACE64EC54A896 /* Targets Support Files */,
@@ -223,6 +208,24 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		E0B13EFF5A77D45D0DB9A3373FCDFC7C /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				76792B6EB120E041B9DB0A96E670FB82 /* BLPod062020 */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		F5D65A69E4698BBA4FD794CEB2E8CF8A /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				7DB4FA9B8E8A137B762984C948CF3700 /* BLPod062020.podspec */,
+				7E72C9382B210F37C06C0C5CC6A1EE57 /* LICENSE */,
+				1FFB739CB91DE9B98BF4CC214C55D267 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -234,14 +237,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0D9AFC55054585C2CCF061BD7A38D554 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				81B22BA402AA96DA4A85E7E7DC180782 /* BLPod062020-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6D62554851239082FC86936ACD3933D8 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -250,17 +245,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B2BEE9680B9C959CBDF32F6DA2A2CD7B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C7A09C2A8D0CA61E8F4D1B547D355B16 /* BLPod062020-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		06B06DC417CA6871BCBB20F6C86AA587 /* BLPod062020 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0877603339EC8D8FBF1BABE3F0FD7FE9 /* Build configuration list for PBXNativeTarget "BLPod062020" */;
+			buildConfigurationList = 8524F2BD0662BAEFB1BB24D84F43DD84 /* Build configuration list for PBXNativeTarget "BLPod062020" */;
 			buildPhases = (
-				0D9AFC55054585C2CCF061BD7A38D554 /* Headers */,
-				C14F81E38DF7F6177083E8D2673EBF58 /* Sources */,
-				7C28CA4856125E8FC31AFB825D38F02F /* Frameworks */,
-				DBF1ED2DDC57C6002331FBFDD0A01D19 /* Resources */,
+				B2BEE9680B9C959CBDF32F6DA2A2CD7B /* Headers */,
+				6D0FBDF5FC7107D552199770C05F2B75 /* Sources */,
+				8DA1ACAEE68AE4EDAD91169968F80298 /* Frameworks */,
+				C233C7AA9EC241F399B373E6970A2B19 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -353,7 +356,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DBF1ED2DDC57C6002331FBFDD0A01D19 /* Resources */ = {
+		C233C7AA9EC241F399B373E6970A2B19 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -371,12 +374,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C14F81E38DF7F6177083E8D2673EBF58 /* Sources */ = {
+		6D0FBDF5FC7107D552199770C05F2B75 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34DA46C5B04C2DD4F8FEF839CDAE8E69 /* BLPod062020-dummy.m in Sources */,
-				96D1A35FC8B198069EBB4DEE6F056481 /* ReplaceMe.swift in Sources */,
+				0ACE036E7360D4967DD96B298E4DB283 /* BLPod062020-dummy.m in Sources */,
+				71D2C45A51D12BE72FC1177D5036FCC8 /* LeftImageTextField.swift in Sources */,
+				79B56CB4A3F21BB8C87F343BF78AEDAE /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,6 +444,37 @@
 			};
 			name = Release;
 		};
+		223FCCAC7DFA0B7FB4614BF7F5AC47C1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0EEA7336D3BBD67C8B01184B4CDAA8D8 /* BLPod062020.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/BLPod062020/BLPod062020-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/BLPod062020/BLPod062020-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/BLPod062020/BLPod062020.modulemap";
+				PRODUCT_MODULE_NAME = BLPod062020;
+				PRODUCT_NAME = BLPod062020;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		6B7C4FFE7DD0A98A3E80B17663D30A1B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6075DB9B64E389428B2351A1350C7B43 /* Pods-BLPod062020_Tests.debug.xcconfig */;
@@ -467,69 +502,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		A2A211BC7B944E7A3C067D60D3A03077 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81C74613C7BB1469E94DC118B38346E4 /* BLPod062020.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/BLPod062020/BLPod062020-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/BLPod062020/BLPod062020-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/BLPod062020/BLPod062020.modulemap";
-				PRODUCT_MODULE_NAME = BLPod062020;
-				PRODUCT_NAME = BLPod062020;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		A6360718DFAABCCAFDF7E25D2B8CEF6E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F3CD407B8785B1B27B284D4FD3210F61 /* BLPod062020.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/BLPod062020/BLPod062020-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/BLPod062020/BLPod062020-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/BLPod062020/BLPod062020.modulemap";
-				PRODUCT_MODULE_NAME = BLPod062020;
-				PRODUCT_NAME = BLPod062020;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -693,6 +665,38 @@
 			};
 			name = Debug;
 		};
+		BA849475F53C3F9827D301838FA2CA0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 517A831448FE88D286CFC4DC85E140DB /* BLPod062020.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/BLPod062020/BLPod062020-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/BLPod062020/BLPod062020-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/BLPod062020/BLPod062020.modulemap";
+				PRODUCT_MODULE_NAME = BLPod062020;
+				PRODUCT_NAME = BLPod062020;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		BDB447457759A38F1B0DD6F89A49E341 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 55B32BC6E55F3019F9FB6F5ED3FBADCF /* Pods-BLPod062020_Tests.release.xcconfig */;
@@ -730,15 +734,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0877603339EC8D8FBF1BABE3F0FD7FE9 /* Build configuration list for PBXNativeTarget "BLPod062020" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A6360718DFAABCCAFDF7E25D2B8CEF6E /* Debug */,
-				A2A211BC7B944E7A3C067D60D3A03077 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		154FB84D0783BFFBFC0C5043A8EE030C /* Build configuration list for PBXNativeTarget "Pods-BLPod062020_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -753,6 +748,15 @@
 			buildConfigurations = (
 				B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */,
 				B0087CB4594321EF41619F3181FE120E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8524F2BD0662BAEFB1BB24D84F43DD84 /* Build configuration list for PBXNativeTarget "BLPod062020" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				223FCCAC7DFA0B7FB4614BF7F5AC47C1 /* Debug */,
+				BA849475F53C3F9827D301838FA2CA0F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
