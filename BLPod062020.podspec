@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'A short description of BLPod062020.'
 
   s.homepage         = 'https://github.com/bauloc/BLPod062020'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -31,6 +29,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'BLPod062020/Classes/**/*'
+  
+  s.swift_version = '4.0'
   
   # s.resource_bundles = {
   #   'BLPod062020' => ['BLPod062020/Assets/*.png']
